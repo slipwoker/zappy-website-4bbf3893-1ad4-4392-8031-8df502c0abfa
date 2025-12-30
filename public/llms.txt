@@ -1,64 +1,87 @@
-# Business — Generative Engine Optimization Map
+# Earasers IL  — Generative Engine Optimization Map
+
+> High fidelity hearing protection earplugs for musicians concerts motorsports dentists and hygienists safety industrial hyperacusis tinnitus sleeping and snoring. Earasers were invented by a musician for precise sonic clarity with patented technology that creates virtually invisible earplugs without that plugged up feeling.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://earasers-il.zappy5.app
 גלו את earasers noise cancelling earplugs המתקדמות ביותר למוזיקאים, עובדי תעשייה וקונצרטים. הגנה מושלמת עם בהירות קולית מקסימלית.
 
 ### מוצרים
-https://example.com/products
+https://earasers-il.zappy5.app/products
 גלו את מגוון etymotic musicians earplugs המקצועיות שלנו - למוזיקאים, עובדי תעשייה, רופאי שיניים, קונצרטים ועוד. הגנה מושלמת לכל צורך.
 
 ### הטכנולוגיה
-https://example.com/technology
+https://earasers-il.zappy5.app/technology
 גלו את הטכנולוגיה החדשנית מאחורי etymotic musicians earplugs - עיצוב אקוסטי מתקדם המספק הגנה מושלמת עם בהירות קולית יוצאת דופן.
 
 ### מדידה והתאמה
-https://example.com/sizing
+https://earasers-il.zappy5.app/sizing
 מדריך מפורט ל-earasers sizing - למדו כיצד למדוד ולמצוא את הגודל המתאים של etymotic musicians earplugs לאוזניים שלכם.
 
 ### אודות
-https://example.com/about
+https://earasers-il.zappy5.app/about
 גלו את הסיפור מאחורי Earasers - איך מוזיקאי אחד יצר את earasers noise cancelling earplugs המהפכניות ושינה את תעשיית הגנת השמיעה.
 
 ### צור קשר
-https://example.com/contact
+https://earasers-il.zappy5.app/contact
 צרו קשר עם Earasers לשאלות, ייעוץ מקצועי או הזמנת earasers noise cancelling earplugs. הצוות שלנו כאן כדי לעזור לכם.
 
 ### Page
-https://example.com/copy
+https://earasers-il.zappy5.app/copy
 
 ### Page
-https://example.com/copy-copy
+https://earasers-il.zappy5.app/copy-copy
 
 ### Page
-https://example.com/copy-copy-2
+https://earasers-il.zappy5.app/copy-copy-2
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://earasers-il.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://earasers-il.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://earasers-il.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About Earasers IL 
+High fidelity hearing protection earplugs for musicians concerts motorsports dentists and hygienists safety industrial hyperacusis tinnitus sleeping and snoring. Earasers were invented by a musician for precise sonic clarity with patented technology that creates virtually invisible earplugs without that plugged up feeling.
+
+## Services/Products
+- Musicians earplugs
+- Dentists & hygienists earplugs
+- Safety & Industrial earplugs
+- Concerts hearing protection
+- Motorsports earplugs
+- Hyperacusis & tinnitus protection
+- Sleeping & snoring earplugs
+
+## Target Audience
+- אנשי מקצוע במוזיקה ובידור
+- עובדי תעשייה
+- הורים לילדים צעירים
+- מבקרי פסטיבלים תכופים
+- עובדי בנייה
+
+## Industry
+מוצרי בריאות ובטיחות
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://earasers-il.zappy5.app/sitemap.xml
+- **Robots.txt**: https://earasers-il.zappy5.app/robots.txt
