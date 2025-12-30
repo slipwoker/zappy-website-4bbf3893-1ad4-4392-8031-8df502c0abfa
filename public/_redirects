@@ -9,6 +9,9 @@
 /privacy  /privacy.html  200
 /accessibility  /accessibility.html  200
 /terms  /terms.html  200
+/copy  /copy.html  200
+/copy-copy  /copy-copy.html  200
+/copy-copy-2  /copy-copy-2.html  200
 
 # Legal pages - redirect old .html URLs to friendly URLs
 /privacy.html  /privacy  301
